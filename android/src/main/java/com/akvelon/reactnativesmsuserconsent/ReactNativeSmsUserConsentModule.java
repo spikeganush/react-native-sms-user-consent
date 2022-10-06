@@ -138,6 +138,17 @@ public class ReactNativeSmsUserConsentModule extends ReactContextBaseJavaModule 
         }
     }
 
+    // Required for rn built in EventEmitter Calls.
+    @ReactMethod
+    public void addListener(String eventName) {
+
+    }
+
+    @ReactMethod
+    public void removeListeners(Integer count) {
+
+    }
+
     @Override
     public Map<String, Object> getConstants() {
         final Map<String, Object> constants = new HashMap<>();

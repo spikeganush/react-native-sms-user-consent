@@ -1,8 +1,8 @@
 {
-  "name": "@eabdullazyanov/react-native-sms-user-consent",
+  "name": "@spikeganush/react-native-sms-user-consent",
   "title": "React Native Sms User Consent",
-  "version": "1.0.10",
-  "description": "React Native wrapper for Android's SMS User Consent API, ready to use in React Native apps with minimum effort",
+  "version": "0.0.12",
+  "description": "It's a fork of the original work done by akvelon. All original links are conserved, this version is just here to work with the need of my team. React Native wrapper for Android's SMS User Consent API, ready to use in React Native apps with minimum effort",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,7 @@
 # React Native SMS User Consent
 
+It's a fork of the original work done by akvelon. All original links are conserved, this version is just here to work with the need of my team.
+
 React Native wrapper for Android's SMS User Consent API, ready to use in React Native apps with minimum effort. The purpose of SMS User Consent API is to provide one-tap auto-filling of SMS verification codes.
 
 ## iOS
@@ -10,16 +12,16 @@ If you want auto-filling on iOS, `textContentType="oneTimeCode"` for `TextInput`
 
 ## Getting started
 
-Install [the package](https://www.npmjs.com/package/@eabdullazyanov/react-native-sms-user-consent):
+Install [the package](https://www.npmjs.com/package/@spikeganush/react-native-sms-user-consent):
 
 ```
-yarn add @eabdullazyanov/react-native-sms-user-consent
+yarn add @spikeganush/react-native-sms-user-consent
 ```
 
 or
 
 ```
-npm install @eabdullazyanov/react-native-sms-user-consent
+npm install @spikeganush/react-native-sms-user-consent
 ```
 
 ## Basic usage
